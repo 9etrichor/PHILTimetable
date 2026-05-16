@@ -1,0 +1,118 @@
+[
+  {
+    "class_code": "PHIL1010",
+    "title": "Introduction to Philosophy"
+  },
+  {
+    "class_code": "PHIL1020",
+    "title": "Ethics and Society"
+  },
+  {
+    "class_code": "PHIL2010",
+    "title": "History of Western Philosophy I"
+  },
+  {
+    "class_code": "PHIL2020",
+    "title": "History of Western Philosophy II"
+  },
+  {
+    "class_code": "PHIL2030",
+    "title": "Logic and Critical Thinking"
+  },
+  {
+    "class_code": "PHIL2040",
+    "title": "Philosophy of Mind"
+  },
+  {
+    "class_code": "PHIL2050",
+    "title": "Philosophy of Science"
+  },
+  {
+    "class_code": "PHIL3010",
+    "title": "Ancient Greek Philosophy"
+  },
+  {
+    "class_code": "PHIL3020",
+    "title": "Modern Philosophy"
+  },
+  {
+    "class_code": "PHIL3030",
+    "title": "Contemporary Philosophy"
+  },
+  {
+    "class_code": "PHIL3040",
+    "title": "Ethics"
+  },
+  {
+    "class_code": "PHIL3050",
+    "title": "Political Philosophy"
+  },
+  {
+    "class_code": "PHIL3060",
+    "title": "Aesthetics"
+  },
+  {
+    "class_code": "PHIL3070",
+    "title": "Philosophy of Language"
+  },
+  {
+    "class_code": "PHIL3080",
+    "title": "Epistemology"
+  },
+  {
+    "class_code": "PHIL3090",
+    "title": "Metaphysics"
+  },
+  {
+    "class_code": "PHIL4010",
+    "title": "Advanced Topics in Ethics"
+  },
+  {
+    "class_code": "PHIL4020",
+    "title": "Advanced Topics in Metaphysics"
+  },
+  {
+    "class_code": "PHIL4030",
+    "title": "Advanced Topics in Epistemology"
+  },
+  {
+    "class_code": "PHIL4040",
+    "title": "Philosophy of Religion"
+  },
+  {
+    "class_code": "PHIL4050",
+    "title": "Chinese Philosophy"
+  },
+  {
+    "class_code": "PHIL4060",
+    "title": "Indian Philosophy"
+  },
+  {
+    "class_code": "PHIL4070",
+    "title": "Phenomenology"
+  },
+  {
+    "class_code": "PHIL4080",
+    "title": "Existentialism"
+  },
+  {
+    "class_code": "PHIL4090",
+    "title": "Analytic Philosophy"
+  },
+  {
+    "class_code": "PHIL3040",
+    "title": "Ethics"
+  },
+  {
+    "class_code": "PHIL3050",
+    "title": "Political Philosophy"
+  },
+  {
+    "class_code": "PHIL3060",
+    "title": "Aesthetics"
+  },
+  {
+    "class_code": "PHIL3070",
+    "title": "Philosophy of Language"
+  }
+]
